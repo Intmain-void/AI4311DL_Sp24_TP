@@ -33,9 +33,10 @@ GIST spring semester Deep learning term project
   ```
 6. Enjoy!
    * Do not worry about CUDA because it will automatically set into CPU when there are no cuda available.
-   * Use example images and folder on `mosaicv1` folder, which is `RedVelvet.jpg` and `FacdDB` respectively.
+   * Use example images and folder on `mosaicv1` folder, which is `RedVelvet.jpg` and `FaceDB` respectively.
 
 7. LIMITATIONS:
+   
    `face_recognition` has poor performance in calculating embedding vectors.
 
     To solve these problems, fix the `tolerance` value on `mosaic_gui.py`. 
