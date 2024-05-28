@@ -3,7 +3,9 @@
 GIST spring semester Deep learning term project
 
 1. Create an environment with conda with python version 3.8
-
+``` {powershell}
+  conda create -n DLTerm python=3.8
+```
 2. First install dlib with using `conda-forge`
 
 ``` {powershell}
