@@ -22,20 +22,33 @@ GIST spring semester Deep learning term project
   conda install conda-forge::dlib
   ```
 
-4. Activate created environment and install libraries listed on requirements.txt with using below command
+4. Install libraries listed on requirements.txt with using below command
   ``` {powershell}
   pip3 install -r ./requirements.txt
   ```
 
-5. Run `mosaic_gui.py`
+5. Install `pytorch` and `CUDA` if available.
+
+    * If you have cuda, visit [Pytorch website](https://pytorch.org/get-started/locally/) to install cuda and pytorch.
+
+       Below is example of using it.
+      ``` {powershell}
+      pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+      ```
+    * If you don't have cuda, install `pytorch`
+      ``` {powershell}
+      pip3 install torch torchvision torchaudio
+      ```
+
+6. Run `mosaic_gui.py`
   ``` {powershell}
   python mosaic_gui.py
   ```
-6. Enjoy!
+7. Enjoy!
    * Do not worry about CUDA because it will automatically set into CPU when there are no cuda available.
    * Use example images and folder on `mosaicv1` folder, which is `RedVelvet.jpg` and `FaceDB` respectively.
 
-7. LIMITATIONS:
+8. LIMITATIONS:
    
    `face_recognition` has poor performance in calculating embedding vectors.
 
