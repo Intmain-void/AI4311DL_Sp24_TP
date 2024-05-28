@@ -1,0 +1,9 @@
+torch
+torchvision
+torchaudio
+opencv-python-headless
+dlib
+face-recognition
+ultralytics
+matplotlib
+facenet-pytorch
