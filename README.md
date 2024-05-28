@@ -29,7 +29,7 @@ GIST spring semester Deep learning term project
 
 5. Run `mosaic_gui.py`
   ``` {powershell}
-  python3 mosaic_gui.py
+  python mosaic_gui.py
   ```
 6. Enjoy!
    * Do not worry about CUDA because it will automatically set into CPU when there are no cuda available.
