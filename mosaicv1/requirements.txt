@@ -1,6 +1,6 @@
-torch
-torchvision
-torchaudio
+#torch
+#torchvision
+#torchaudio
 opencv-python-headless
 # dlib
 dill
