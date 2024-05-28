@@ -16,7 +16,7 @@ class FaceApp:
         self.root.geometry("1280x800")
         self.root.iconbitmap("pyico.ico")
 
-        self.detector = FaceDetector("yolov8n_1000ep_best.pt")  # load your model
+        self.detector = FaceDetector("best.pt")  # load your model
         self.image_path = None
         self.original_image = None
         self.current_image = None
