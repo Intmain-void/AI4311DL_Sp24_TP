@@ -3,6 +3,7 @@ torchvision
 torchaudio
 opencv-python-headless
 # dlib
+dill
 face-recognition
 ultralytics
 matplotlib
