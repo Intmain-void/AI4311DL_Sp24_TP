@@ -22,7 +22,12 @@ GIST spring semester Deep learning term project
   conda install conda-forge::dlib
   ```
 
-4. Install `pytorch` and `CUDA` if available.
+4. Install libraries listed on requirements.txt with using below command
+  ``` {powershell}
+  pip3 install -r ./requirements.txt
+  ```
+
+5. Install `pytorch` and `CUDA` if available.
 
     * If you have cuda, visit [Pytorch website](https://pytorch.org/get-started/locally/) to install cuda and pytorch.
 
@@ -34,11 +39,6 @@ GIST spring semester Deep learning term project
       ``` {powershell}
       pip3 install torch torchvision torchaudio
       ```
-
-5. Install libraries listed on requirements.txt with using below command
-  ``` {powershell}
-  pip3 install -r ./requirements.txt
-  ```
 
 6. Run `mosaic_gui.py`
   ``` {powershell}
