@@ -10,8 +10,7 @@ GIST spring semester Deep learning term project
   pip3 install -r ./requirements.txt
 ```
 
-3. d
-4. 
+
 
 파일 실행을 하기 위해서는 Requirements에 있는 library 설치가 필수입니다.
 
