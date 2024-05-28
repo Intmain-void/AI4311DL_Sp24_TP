@@ -1,3 +1,13 @@
+# Credits
+
+This project includes the android app code from the following repository:
+
+- [Original Repository Name](https://github.com/AarohiSingla/Object-Detection-Android-App)
+
+Special thanks to [link-to-original-author-profile](https://github.com/AarohiSingla) for their contribution.
+
+---
+
 # Object detection app using YOLOv8 and Android
 
 ### Check the video to understand the code: https://youtu.be/dl7rCmvIyiI
@@ -28,10 +38,4 @@
 
 
 
-## Credits
 
-This project includes the andrroid app code from the following repository:
-
-- [Original Repository Name](https://github.com/surendramaran/YOLOv8-TfLite-Object-Detector)
-
-Special thanks to [link-to-original-author-profile](https://github.com/surendramaran) for their contribution.
