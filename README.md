@@ -1,4 +1,4 @@
-# DL_Sp24_TermProject_final
+# DL_Sp24_TermProject_final       
 
 GIST spring semester Deep learning term project
 
