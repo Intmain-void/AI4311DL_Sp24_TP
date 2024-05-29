@@ -1,0 +1,2 @@
+* `Widerface` data gained from [roboflow](https://universe.roboflow.com/large-benchmark-datasets/wider-face-ndtcz)
+* `FDDB` data gained from [roboflow](https://universe.roboflow.com/fddb/face-detection-40nq0/dataset/1)
