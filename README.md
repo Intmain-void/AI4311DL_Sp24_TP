@@ -2,6 +2,8 @@
 
 GIST spring semester Deep learning term project
 
+To execute GUI demo, you must open mosaicv1 folder and follow instruction below.
+
 ---
 
 ## How to run `mosaicv1`
