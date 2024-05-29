@@ -1,3 +1,4 @@
 *.cache
-dset/*
+dset/train
+dset/valid
 src/runs/
