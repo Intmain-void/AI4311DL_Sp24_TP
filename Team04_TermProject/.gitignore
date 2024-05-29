@@ -2,3 +2,5 @@
 dset/train/
 dset/valid/
 src/runs/
+*.pptx
+*.zip
